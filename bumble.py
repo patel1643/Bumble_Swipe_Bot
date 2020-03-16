@@ -21,10 +21,10 @@ class BumbleBot():
         # # self.driver.switch_to_window(self.driver.window_handles[1])
     
         # # email_in = self.driver.find_element_by_xpath('//*[@id="email"]')
-        # # email_in.send_keys('parth1643')
+        # # email_in.send_keys('yourEmail')
     
         # # pw_in = self.driver.find_element_by_xpath('//*[@id="pass"]')
-        # # pw_in.send_keys('Parth1234')
+        # # pw_in.send_keys('yourPassword')
     
         # # login_btn = self.driver.find_element_by_xpath('//*[@id="u_0_0"]')
         # # login_btn.click()
